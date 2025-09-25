@@ -24,3 +24,15 @@ nav a:hover {
     color: #0086ff;
     
 }
+
+main {
+  /* Khung nội dung */
+  max-width: 900px; /* Chiều rộng tối đa */
+  margin: 2em auto; /* Căn giữa và tạo lề trên/dưới */
+  padding: 1em;     /* Khoảng đệm bên trong */
+  
+  /* Hình thức */
+  background-color: #ffffff; /* Nền trắng */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Tạo bóng đổ nhẹ */
+  border-radius: 8px; /* Bo góc */
+}
